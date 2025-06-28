@@ -22,24 +22,9 @@ Mengetahui apakah semakin sering seseorang mengakses internet berkaitan dengan m
 3. Regresi linier sederhana
 4. Visualisasi hubungan antar variabel
 
-## Hasil Utama
-
-- Persamaan model: **𝑦 = 33.32 + 5.50𝑥**
-- R-squared: **0.344**
-- Interpretasi: Setiap kenaikan 1 akses internet/minggu diperkirakan meningkatkan indeks minat baca sebesar 5,5 poin
-
-## Visualisasi
-
-Scatter plot menunjukkan hubungan positif antara akses internet dan minat baca, dengan garis regresi yang menanjak.
-
 ## Kesimpulan
 
 Terdapat kecenderungan hubungan positif antara frekuensi akses internet dan kegemaran membaca. Meskipun belum sepenuhnya menjelaskan semua variasi, hasil ini memberi gambaran awal pentingnya peran internet dalam mendukung literasi.
-
-## Rekomendasi
-
-- Dorong literasi digital melalui konten membaca yang menarik secara daring
-- Tambahkan variabel seperti usia, pendidikan, dan jenis bacaan dalam analisis lanjutan
 
 ---
 
