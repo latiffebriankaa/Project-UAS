@@ -28,7 +28,7 @@ Terdapat kecenderungan hubungan positif antara frekuensi akses internet dan kege
 
 ---
 
-📝 \*Proyek ini dibuat untuk memenuhi tugas UAS
+\*Proyek ini dibuat untuk memenuhi tugas UAS
 
 ## dibuat oleh
 
