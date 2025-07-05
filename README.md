@@ -12,7 +12,6 @@ Mengetahui apakah semakin sering seseorang mengakses internet berkaitan dengan m
 - pandas
 - numpy
 - matplotlib
-- seaborn
 - scikit-learn
 
 ## Metode
@@ -27,8 +26,6 @@ Mengetahui apakah semakin sering seseorang mengakses internet berkaitan dengan m
 Terdapat kecenderungan hubungan positif antara frekuensi akses internet dan kegemaran membaca. Meskipun belum sepenuhnya menjelaskan semua variasi, hasil ini memberi gambaran awal pentingnya peran internet dalam mendukung literasi.
 
 ---
-
-\*Proyek ini dibuat untuk memenuhi tugas UAS
 
 ## dibuat oleh
 
